@@ -1,6 +1,7 @@
 # this api is built with Node JS and Express
 
-![API]
+![API] This application provides a URL shortener service,
+the user enters a URL and gets a short URL in return.
 
 ## Imporrtant
 run npm install 
